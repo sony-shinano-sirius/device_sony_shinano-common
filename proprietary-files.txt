@@ -19,6 +19,7 @@ lib/libaudioroute.so:vendor/lib/libaudioroute.so
 
 # Bluetooth aptX - from Motorola Moto Z NCLS25.86-11-4-6-5
 vendor/lib/libaptX_encoder.so|b03772672144d4b750a5672c2922aded93bb0512
+lib/libaptX_encoder.so|974c486e4ca03faa0713553d9dfe2995ac93e01c
 
 # CMN firmware
 etc/firmware/cmnlib.b00:vendor/firmware/cmnlib.b00
