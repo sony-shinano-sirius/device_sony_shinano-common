@@ -130,6 +130,10 @@ PRODUCT_COPY_FILES += \
 # Properties
 include $(COMMON_PATH)/system_prop.mk
 
+# Wi-Fi Display
+PRODUCT_BOOT_JARS += \
+    WfdCommon
+
 # Ramdisk
 PRODUCT_PACKAGES += \
     fstab.qcom \
